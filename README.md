@@ -1,5 +1,5 @@
 
-# 🏦 Banking Dashboard for Risk Analysis
+# 🏦 Banking Dashboard for Credit Risk Analysis
 
 A **Power BI**-based interactive dashboard project designed to visualize key financial metrics and support comprehensive **risk analysis** in a banking environment.
 
