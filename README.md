@@ -4,6 +4,8 @@
 A **Power BI**-based interactive dashboard project designed to visualize key financial metrics and support comprehensive **risk analysis** in a banking environment.
 
 ---
+![image](https://github.com/user-attachments/assets/cd547469-8a03-4856-9f7b-59010f769d1c)
+
 
 ## 🚀 How to Use
 
